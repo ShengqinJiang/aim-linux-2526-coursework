@@ -78,7 +78,7 @@ rm utils.sh -r
 # 请在下方写下你的命令
 
 cd ../
-rm data -r
+rm data/ -r
 
 
 # 任务 6: 使用 cat 和 grep 创建和搜索文件
