@@ -69,7 +69,7 @@ HELLO
 
 # 请在下方写下你的命令
 
-rm utils.sh -r
+rm utils.sh
 
 
 # 任务 5: 使用 rm 删除目录
